@@ -11,7 +11,7 @@
 ### 🌪 Android Head Circle at GOC Team
 
 - 🥳 Android Head Circle at GOC Team
-- 💫 I'm a Vice Head Android at CatReloaded
+- 💫 Vice Head Android at CatReloaded
 - 🌱 I’m currently learning Mobile development as Android
 - 💞️ I’m looking to collaborate on Android projects
 - 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/zeinababdien00/)
