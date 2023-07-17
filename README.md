@@ -9,8 +9,6 @@
 <!-- <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/> -->
 
 ### 🌪 Android Head Circle at GOC Team
-
-- 🥳 Android Head Circle at GOC Team
 - 💫 Vice Head Android at CatReloaded
 - 🌱 I’m currently learning Mobile development as Android
 - 💞️ I’m looking to collaborate on Android projects
