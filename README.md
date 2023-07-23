@@ -48,9 +48,9 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code">
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 </a>
-<a href="" title="DOTNET">
+<!-- <a href="" title="DOTNET">
 	<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="DOTNET">
-</a>
+</a> -->
 <a href="" title="C++">
 	<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 </a>
