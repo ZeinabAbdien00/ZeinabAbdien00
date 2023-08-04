@@ -1,5 +1,5 @@
 # ZeinabAbdien
-# Android Developer 
+# Native Android Developer 
 <h1 align="center">Hello 👋, I'm Zeinab Abdien</h1>
 <h3 align="center">Interested in Mobile Development as Android</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ZeinabAbdien00&label=Profile%20views&color=0e75b6&style=flat" alt="ZeinabAbdien00" />
