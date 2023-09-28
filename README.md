@@ -75,27 +75,3 @@
 <br/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeinabAbdien00&theme=tokyonight_duo" alt="ZeinabAbdien00" /></p>
 <br/>
-<!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p> -->
-  
-<!-- <summary>
-<!-- 	<b>⚡ Git profile Trophies</b> 
-</summary>
-
-<!-- <p align="center"> 
-<!-- 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=ZeinabAbdien00&layout=compact&theme=algolia" alt="ZeinabAbdien00" />
-	</a>  
-</p>
-
-
-<!-- <summary><b>⚡ Recent GitHub Activity</b></summary>
-<br/>
-<a href="https://github.com/ZeinabAbdien00"><img alt="Zeinab Abdien's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ZeinabAbdien00&custom_title=Zeinab%20Abdien%27s%20Contribution%20Graph&theme=react-dark" /></a>
-<br/> -->
-
-
-<!---
-ZeinabAbdien00/ZeinabAbdien00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
